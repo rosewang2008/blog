@@ -21,9 +21,11 @@
 title: Thoughts of an agent
 email: rewang@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Rose E. Wang's blog
+   Rose E. Wang's blog 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://rosewang2008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+production_url : http://rosewang2008.github.io/blog
+BASE_PATH : http://rosewang2008.github.io/blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rose_e_wang
 github_username:  rosewang2008
 
