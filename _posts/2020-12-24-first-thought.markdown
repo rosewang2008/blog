@@ -2,6 +2,7 @@
 layout: post
 title:  "Blogging, Jekyll, GitHub pages"
 excerpt: "Setting up this blog took way longer than expected. I describe how I set up mine using Jekyll and GitHub Pages. "
+comments: true
 date:   2020-12-24
 ---
 
